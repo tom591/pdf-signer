@@ -1,0 +1,16 @@
+PDF Signer – Freeware License
+
+Copyright © 2026 Tom Salaj. All rights reserved.
+
+PDF Signer is provided free of charge for personal and commercial use.
+
+Terms of use:
+
+1. The software may be used free of charge for personal and commercial purposes.
+2. The software may be redistributed only in its original, unmodified form, including this license.
+3. Modification, reverse engineering, and distribution of modified versions are not permitted, except where applicable law provides otherwise.
+4. The software may not be sold as a standalone product without prior written permission from the author.
+5. The software is provided "AS IS", without warranty of any kind, to the extent permitted by applicable law.
+6. The author shall not be liable for damages arising from the use of the software, to the extent permitted by applicable law.
+
+By installing or using PDF Signer, you agree to these terms.
