@@ -31,6 +31,7 @@ First public release.
 ## 🧰 Features
 
 - Digitally signs PDF documents using PKCS#12 certificates (.p12 / .pfx).
+- Places the visible signature in the bottom-right corner of the **last page** of each PDF document.
 - Supports batch processing of up to 500 PDF files.
 - Provides a simple graphical user interface.
 - Supports English and Czech.
@@ -46,6 +47,7 @@ First public release.
 - PDF Signer does not issue digital certificates.
 - A valid PKCS#12 certificate (.p12 or .pfx) containing a private key is required.
 - Other certificate formats and hardware signing tokens are not supported.
+- The visible signature is always placed in the bottom-right corner of the last page. Its position cannot be customized.
 - The validity and legal effect of a digital signature depend on the certificate, signing method and applicable requirements.
 - Always verify signed documents before distributing or submitting them.
 
