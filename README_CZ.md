@@ -6,7 +6,7 @@
 
 Bezplatná desktopová aplikace pro Windows určená k digitálnímu podepisování PDF dokumentů pomocí certifikátů PKCS#12 (.p12 / .pfx).
 
-PDF Signer nabízí jednoduché grafické rozhraní a umožňuje dávkové podepisování až **500 PDF souborů** najednou.
+PDF Signer nabízí jednoduché grafické rozhraní a umožňuje podepsat až **500 PDF souborů** v jedné dávce.
 
 > ⚠️ PDF Signer vyžaduje platný certifikát PKCS#12 (.p12 nebo .pfx) obsahující soukromý klíč. Jiné formáty certifikátů ani hardwarové podpisové tokeny nejsou podporovány.
 
