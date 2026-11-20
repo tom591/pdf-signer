@@ -6,7 +6,7 @@
 
 A free Windows desktop application for digitally signing PDF documents using PKCS#12 certificates (.p12 / .pfx).
 
-PDF Signer provides a simple graphical interface and supports batch processing of up to **500 PDF files** at a time.
+PDF Signer provides a simple graphical interface and supports signing up to **500 PDF files** in a single batch.
 
 > ⚠️ PDF Signer requires a valid PKCS#12 certificate (.p12 or .pfx) containing a private key. Other certificate formats and hardware signing tokens are not supported.
 
