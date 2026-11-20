@@ -24,7 +24,7 @@ První veřejné vydání.
 
 ### Hlavní okno aplikace
 
-![PDF Signer](images/pdf-signer-main.png)
+![PDF Signer](images/pdf-signer-main_cz.png)
 
 ---
 
