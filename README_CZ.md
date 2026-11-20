@@ -32,7 +32,7 @@ První veřejné vydání.
 
 - Digitálně podepisuje PDF dokumenty pomocí certifikátů PKCS#12 (.p12 / .pfx).
 - Umisťuje viditelný podpis do pravého dolního rohu **poslední stránky** každého PDF dokumentu.
-- Podporuje dávkové podepisování až 500 PDF souborů.
+- Podporuje dávkové podepisování až 500 PDF souborů v jedné dávce.
 - Nabízí jednoduché grafické uživatelské rozhraní.
 - Podporuje češtinu a angličtinu.
 - Zobrazuje průběh zpracování a stavové zprávy.
