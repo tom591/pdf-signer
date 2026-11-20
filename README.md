@@ -32,7 +32,7 @@ First public release.
 
 - Digitally signs PDF documents using PKCS#12 certificates (.p12 / .pfx).
 - Places the visible signature in the bottom-right corner of the **last page** of each PDF document.
-- Supports batch processing of up to 500 PDF files.
+- Supports signing up to 500 PDF files per batch.
 - Provides a simple graphical user interface.
 - Supports English and Czech.
 - Displays processing progress and status messages.
